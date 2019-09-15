@@ -1,0 +1,47 @@
+introduction - Titanic Project
+
+Problem definition and data pre-proccessing 
+	Problem Definition - 2 hour lecture + 1 hour exercise - total 3 hour
+		Goal
+		Relevance \ Non-Relevance Information
+		Reliability of the data
+		The amount of data
+		The amount of samples
+	
+	Data Exploration
+		Data Info and Type
+		Visualization
+		Find Outliers
+	
+	Data Science Project - Work Flow - 2 hour lecture + 2 hour exercise - total 4 hour	
+
+		Data Pre-proccessing
+			Sampling 
+			Formatting
+			Cleaning			
+
+		Feature Engineering
+			The Consept of Feature Engineering
+			Categorical Vs Continuous Features
+			Grouping - create bins from categorical data	
+			Scalling	
+			Feature from Text
+			Get Dummies
+
+		Feature Selection
+			Chi Square Test
+			Coefficient Correlation
+		
+		First Run of Model (logistic regression)
+
+
+
+
+
+
+
+
+
+
+
+
