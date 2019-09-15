@@ -1,0 +1,56 @@
+introduction supervised & unsupervised - classification (logistic regression)
+
+	introduction - Andrew Ng Coursera , Kaggle & Titanic Project - 0.5 hour
+
+	WEEK 1 - 0.75 hour
+	Introduction
+		Welcome to Machine Learning!1m
+		Welcome6m
+		What is Machine Learning?7m
+		Supervised Learning12m
+		Unsupervised Learning14m
+	
+	Summary - Supervised Vs Unsupervised - 0.5 hour
+	
+	introduction - "WorkFlow of Data Science Project" - ???
+
+	WEEK 3 - 1.5 hour
+	Logistic Regression
+		Classification8m
+		Hypothesis Representation7m
+		Decision Boundary14m
+		Cost Function10m
+		Simplified Cost Function and Gradient Descent10m
+		Advanced Optimization14m
+		Multiclass Classification: One-vs-all6m	
+
+	Summary - Classification , Iris Example - ??? 2 hour ???
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
