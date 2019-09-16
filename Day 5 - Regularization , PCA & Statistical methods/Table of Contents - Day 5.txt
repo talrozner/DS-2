@@ -1,0 +1,27 @@
+Review - 0.5 hour
+
+WEEK 6 - 2 hour
+	Advice for Applying Machine Learning
+		Deciding What to Try Next5m
+		Evaluating a Hypothesis7m
+		Model Selection and Train/Validation/Test Sets12m
+		Diagnosing Bias vs. Variance7m
+		Regularization and Bias/Variance11m
+		Learning Curves11m
+		Deciding What to Do Next Revisited6m
+
+Summary & Exercise - 1.5 hour
+
+WEEK 8 - 1.5 hour
+	Dimensionality Reduction 
+		Motivation I: Data Compression10m
+		Motivation II: Visualization5m
+		Principal Component Analysis Problem Formulation9m
+		Principal Component Analysis Algorithm15m
+		Reconstruction from Compressed Representation3m
+		Choosing the Number of Principal Components10m
+		Advice for Applying PCA12m
+
+Summary & Exercise - 1 hour
+
+Statistical Methods For Finding Outliers - If there is time
