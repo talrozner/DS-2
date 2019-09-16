@@ -1,0 +1,12 @@
+ROC and AUC, Clearly Explained!
+	https://www.youtube.com/watch?v=4jRBRDbJemM
+
+
+
+
+
+(Machine Learning Fundamentals: The Confusion Matrix
+	https://www.youtube.com/watch?v=Kdsp6soqA7o)
+
+(Machine Learning Fundamentals: Sensitivity and Specificity
+	https://www.youtube.com/watch?v=sunUKFXMHGk)

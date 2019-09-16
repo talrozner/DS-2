@@ -1,0 +1,18 @@
+Review - 0.5 hour
+Random Forest , YouTube - 1 hour
+Implementation of Random Forest on Titanic Project - 1 hour
+
+WEEK 6 - 1 hour
+	Machine Learning System Design
+		Prioritizing What to Work On9m
+		Error Analysis13m
+		Error Metrics for Skewed Classes11m
+		Trading Off Precision and Recall14m
+		Data For Machine Learning11m
+
+Model Evaluation
+	Percision, Recall, confusion matrix & F1_Score - 0.75 hour
+	ROC & AUC - 0.5 hour
+	Feature Importance & Corelation to Labels - 0.5 hour
+	Exercise - 1 hour
+	
