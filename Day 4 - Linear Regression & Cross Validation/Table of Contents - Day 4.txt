@@ -1,0 +1,29 @@
+Review - 0.5 hour
+
+WEEK 1
+	Linear Regression with One Variable
+		Model Representation8m
+		Cost Function8m
+		Cost Function - Intuition I11m
+		Cost Function - Intuition II8m
+		Gradient Descent11m
+		Gradient Descent Intuition11m
+		Gradient Descent For Linear Regression10m
+
+WEEK 2
+	Linear Regression with Multiple Variables
+		Multiple Features8m
+		Gradient Descent for Multiple Variables5m
+		Gradient Descent in Practice I - Feature Scaling8m
+		Gradient Descent in Practice II - Learning Rate8m
+		Features and Polynomial Regression7m
+
+Summary & Example - 1 hour
+
+Exercise on Titanic Project - 2 hour
+
+K-FOLD & Cross Validation - 0.75 hour
+
+Exercise on Titanic Project - 0.75 hour
+
+
