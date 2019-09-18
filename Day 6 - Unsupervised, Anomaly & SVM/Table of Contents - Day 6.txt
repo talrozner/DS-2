@@ -1,0 +1,41 @@
+WEEK 8 - 1 hour
+	Unsupervised Learning
+		Unsupervised Learning: Introduction3m
+		K-Means Algorithm12m
+		Optimization Objective7m
+		Random Initialization7m
+		Choosing the Number of Clusters8m
+
+Summary & Exercise - 1 hour
+
+WEEK 9 - 1.5 hour
+	Anomaly Detection
+		Problem Motivation7m
+		Gaussian Distribution10m
+		Algorithm12m
+		Developing and Evaluating an Anomaly Detection System13m
+		Anomaly Detection vs. Supervised Learning7m
+		Choosing What Features to Use12m
+		Multivariate Gaussian Distribution13m
+		Anomaly Detection using the Multivariate Gaussian Distribution14m
+
+WEEK 7 - 2 hour
+	Support Vector Machines 
+		Optimization Objective14m
+		Large Margin Intuition10m
+		Mathematics Behind Large Margin Classification19m
+		Kernels I15m
+		Kernels II15m
+		Using An SVM21m
+
+Summary & Exercise - 1 hour
+
+
+
+
+
+
+
+
+
+
